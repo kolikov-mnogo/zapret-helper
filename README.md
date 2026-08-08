@@ -1,6 +1,12 @@
 # 🛠️ Zapret Helper
 
-> **Это помощник по настройке Zapret. Самим Zapret этот проект не является.**
+**Это помощник по настройке Zapret. Самим Zapret этот проект не является.**
+
+> **⚠️ ВАЖНО: актуальную версию Zapret Helper скачивайте только из раздела [Releases](https://github.com/kolikov-mnogo/zapret-helper/releases).**
+>
+> **Файл `.exe` в корне репозитория может быть устаревшей версией. Для скачивания используйте именно Releases.**
+
+---
 
 ## ⚠️ Важно
 
@@ -16,11 +22,11 @@
 
 Helper не является самим Zapret и не заменяет оригинальный проект.
 
-Я рекомендую использовать **только оригинальный Zapret от Flowseal** и скачивать его из официального репозитория:
+Я рекомендую использовать **только оригинальный Zapret от Flowseal** и скачивать его из официального репозитория.
 
 ### 🔗 Оригинальный Zapret
 
-[Flowseal / zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube/releases?utm_source=chatgpt.com)
+[Flowseal / zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube/releases)
 
 **Автор оригинального проекта — Flowseal.**
 
@@ -75,13 +81,15 @@ Helper используется **вместе с оригинальным Zapre
 
 Используйте официальный репозиторий Flowseal:
 
-[Скачать оригинальный Zapret](https://github.com/Flowseal/zapret-discord-youtube/releases?utm_source=chatgpt.com)
+👉 [Скачать оригинальный Zapret](https://github.com/Flowseal/zapret-discord-youtube/releases)
 
 ### Шаг 2 — скачайте Zapret Helper
 
-Актуальные версии Helper находятся в разделе Releases:
+👉 **[Скачать актуальную версию Zapret Helper из Releases](https://github.com/kolikov-mnogo/zapret-helper/releases)**
 
-[Скачать Zapret Helper](https://github.com/kolikov-mnogo/zapret-helper/releases?utm_source=chatgpt.com)
+> ⚠️ **Не скачивайте `.exe` из корня репозитория, если вам нужна последняя версия.**
+>
+> Актуальные готовые сборки публикуются в разделе **Releases**.
 
 ### Шаг 3 — разместите Helper вместе с Zapret
 
@@ -105,7 +113,9 @@ Helper используется **вместе с оригинальным Zapre
 
 Если вы используете старую версию, рекомендуется проверить раздел **Releases** и скачать последнюю доступную версию.
 
-[Все релизы Zapret Helper](https://github.com/kolikov-mnogo/zapret-helper/releases?utm_source=chatgpt.com)
+👉 **[Все релизы Zapret Helper](https://github.com/kolikov-mnogo/zapret-helper/releases)**
+
+**Именно Releases являются основным источником актуальных готовых сборок.**
 
 ---
 
@@ -113,9 +123,9 @@ Helper используется **вместе с оригинальным Zapre
 
 **kolikov-mnogo**
 
-[GitHub автора](https://github.com/kolikov-mnogo?utm_source=chatgpt.com)
+[GitHub автора](https://github.com/kolikov-mnogo)
 
-[Репозиторий Zapret Helper](https://github.com/kolikov-mnogo/zapret-helper?utm_source=chatgpt.com)
+[Репозиторий Zapret Helper](https://github.com/kolikov-mnogo/zapret-helper)
 
 ---
 
